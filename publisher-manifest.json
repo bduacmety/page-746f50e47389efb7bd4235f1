@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e6e2ca486265948ffef201ce",
+  "owner": "bduacmety",
+  "repo": "page-746f50e47389efb7bd4235f1",
+  "title": "菜市场(Texon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "746f50e47389efb7bd4235f1",
+      "a": "菜市场(Texon)",
+      "b": "稳定全球clash加速器",
+      "entity": "菜市场(Texon)",
+      "brand": "菜市场(Texon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0d78954583971faee58d0ab0bd53fe40f1bc07ecc15cd1305a714be8527be3bf",
+      "content": {
+        "primary_entity": "菜市场(Texon)",
+        "keyword1": "菜市场(Texon)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端可按设备选用 Clash for Windows、ClashX Pro、Clash for Android、Stash 或 Clash Verge Rev，把订阅地址粘贴进配置即可。",
+          "AI_CLIENTS_TITLE": "按设备选择 Clash 客户端",
+          "AI_CLOSING_TEXT": "按设备挑选合适套餐并导入订阅，即可开始使用菜市场(Texon)。",
+          "AI_CLOSING_TITLE": "选好套餐，连上节点",
+          "AI_DESCRIPTION": "，菜市场(Texon)提供基础版、旗舰版与团队版三档订阅，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB 流量、支持 5 台设备并带 IPLC 专线游戏加速，团队版每月 1000GB 流量、支持 20 台设备。用户可依设备数量与流量需求对比选择，再按客户端文档配置 Clash 订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度对比套餐，就能快速找到适合的档位。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线并优化游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，可定制企业路由并配客户经理。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量，再对照套餐权益，最后按客户端文档导入订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "菜市场(Texon)提供基础版、旗舰版与团队版三档 Clash 订阅，覆盖从 3 台到 20 台设备、每月 100GB 到 1000GB 流量的使用需求，旗舰版与团队版还提供 IPLC 专线与定制路由。",
+          "AI_HERO_SUBTITLE": "菜市场(Texon)多设备 Clash 订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "旗舰版与团队版提供专线节点",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数和流量对比即可。",
+          "AI_PLANS_TITLE": "按设备与流量对比套餐",
+          "AI_STEP_TEXT_1": "依据常用设备数量和每月流量，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限以及是否包含 IPLC 专线等权益。",
+          "AI_STEP_TEXT_3": "在对应 Clash 客户端中粘贴订阅地址，保存配置后更新节点列表即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "菜市场(Texon) Clash 订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。超出后可升级套餐，或在设备端按需切换登录。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度日常用基础版即可，多设备高频使用可选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "可以在路由器、电脑或手机客户端导入订阅地址使用，具体按所选客户端的配置方式操作，不同系统支持情况有差异。",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按年付通常更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线，针对游戏和实时应用优化；基础版为普通线路节点池。对延迟敏感建议选旗舰版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐每月流量差多少？",
+          "AI_FAQ_QUESTION_3": "客户端订阅可以导入路由器吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格分别是多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "markquan.cn",
+    "host": "markquan.cn"
+  },
+  "file_hashes": {
+    "index.html": "67fe11176fbf898ae06409d523d8ba4724f9193a695fb14f6372ef4fade13444",
+    "sitemap.xml": "111f363c32834de7b3601d76ec338c71e19f954bc9229ecf88c859f3bbf03165",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e349ad0f8861c5a94fce8de653e59186bd5891f0d02b91c143d407f0570a2c7",
+    "robots.txt": "4be93cd00170bb4e7e8a06262e066df395827a6dff02ca91b8409b6bb08cb9b3",
+    "f8ee4979e7501c37515fa04a4746813b.txt": "e54cd59c00761ef15d190d1f7c80401beebf84f5eebf385a58b0fbf6e2427283"
+  },
+  "revision": "205409a6b42770b034da8d0fee9a3ce02fbb40ec61d05512aa9556a695cbe2b5"
+}
